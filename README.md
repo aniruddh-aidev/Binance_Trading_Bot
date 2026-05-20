@@ -62,7 +62,7 @@ trading_bot/
 
 ## Assumptions
 
-Trders will be executed on the Binance Futures Testnet (USDT-M), NOT on regular Binance platform.
+Traders will be executed on the Binance Futures Testnet (USDT-M), NOT on regular Binance platform.
 
 Limit orders set their timeInForce to GTC (Good Till Cancelled).
 Currently supporting USDT-M futures markets (BTCUSDT, ETHUSDT and more).
